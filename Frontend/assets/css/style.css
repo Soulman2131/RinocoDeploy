@@ -1,0 +1,14 @@
+@font-face {
+	font-family: pecita;
+	src: url(../fonts/Pecita.woff);
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.heading-primary {
+	font-family: pecita;
+}
